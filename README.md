@@ -10,5 +10,8 @@ Key insights :
 Dataset:
 Used data from Kaggle : https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+Results:
+Various graph results have been attached that support the insight
+
 Conclusion 
 This analysis has helped in generating great insights about netflix shows and figuring out the data negarding various shows
